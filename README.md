@@ -1,4 +1,4 @@
-# Example 1: Conversion between Polar Coordinates and Cartesian Coordinates
+## Example 1: Conversion between Polar Coordinates and Cartesian Coordinates
 A C++ program is developed for displaying the location of the points and performing the 
 conversions between polar coordinates (r, θ) and cartesian coordinates (x,y).We need to know the 
 formulae used for the conversions .We need to know the constraints on input such as radius is 
