@@ -10,6 +10,7 @@ The user-defined functions are developed to solve each types of conversion of th
 indicate the location of the points. So, the functions can be compiled and reused in separate cases. 
 In the functions, the nested if-else statements are used as we have some conditions to consider 
 and test.
+\n
 In the program, we include the header files used, such as iomanip and declare the variables 
 used. The user instructions are displayed. The user is asked to input their choice(case), and once 
 the case match is found, the block of statements associated with that particular case is executed. 
